@@ -1,0 +1,13 @@
+2026-10-11T17:20:08.062652Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.42) starting as process 16552
+2026-10-11T17:20:08.074153Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-10-11T17:20:08.456185Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+[warn] evsig_init_: socketpair: Intento de acceso a un socket no permitido por sus permisos de acceso.
+[warn] event_base_new_with_config: Unable to make base notifiable.
+2026-10-11T17:20:08.582100Z 0 [ERROR] [MY-011237] [Server] Plugin mysqlx reported: 'Startup failed with error "bad allocation"'
+2026-10-11T17:20:08.582951Z 0 [ERROR] [MY-010202] [Server] Plugin 'mysqlx' init function returned error.
+2026-10-11T17:20:08.774487Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-10-11T17:20:08.774737Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-10-11T17:20:08.778217Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: Intento de acceso a un socket no permitido por sus permisos de acceso. 
+2026-10-11T17:20:08.778345Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2026-10-11T17:20:08.778468Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-10-11T17:20:10.032122Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.42)  MySQL Community Server - GPL.

@@ -1,0 +1,6 @@
+Using CATALINA_BASE:   "C:\Users\yared\OneDrive\Documentos\Universidad\Programacion\GestorTareasWeb\video_trabajo\tomcat"
+Using CATALINA_HOME:   "C:\Users\yared\Downloads\apache-tomcat-9.0.65-windows-x64\apache-tomcat-9.0.65"
+Using CATALINA_TMPDIR: "C:\Users\yared\OneDrive\Documentos\Universidad\Programacion\GestorTareasWeb\video_trabajo\tomcat\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jdk-17"
+Using CLASSPATH:       "C:\Users\yared\Downloads\apache-tomcat-9.0.65-windows-x64\apache-tomcat-9.0.65\bin\bootstrap.jar;C:\Users\yared\Downloads\apache-tomcat-9.0.65-windows-x64\apache-tomcat-9.0.65\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""
